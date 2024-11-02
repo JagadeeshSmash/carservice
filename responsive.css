@@ -1,0 +1,160 @@
+
+@media (max-width: 575px) {
+    .navbar-brand img {
+        width: 50%;
+    }
+
+    .bannertext h1 {
+        font-size: 15px;
+    }
+
+    .whychooseimg1,
+    .whychooseimg2,
+    .whychooseimg3,
+    .whychooseimg4 {
+        margin-bottom: 30px;
+    }
+
+    .whychoose img {
+        width: 350px;
+        height: 200px;
+    }
+
+    .carousel p {
+        margin-bottom: 0 !important;
+    }
+
+    .carousel .testi {
+        height: 125px;
+    }
+
+    .aboutus .row {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+
+    .wtext {
+        margin-bottom: 70px;
+    }
+
+    .wing,
+    .wtext {
+        width: 100%;
+    }
+
+    .contact .submitb {
+        margin-left: 20px;
+    }
+
+    .openinghours {
+        padding: 0 !important;
+        margin-left: 20px;
+        margin-top: 25px;
+    }
+
+    footer {
+        .contact {
+            margin-bottom: 20px;
+        }
+
+        .socialmedia {
+            margin-bottom: 20px;
+        }
+
+        .quicklinks {
+            margin-bottom: 20px;
+        }
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-brand img {
+        width: 40%;
+    }
+
+    .whychooseimg1,
+    .whychooseimg2,
+    .whychooseimg3,
+    .whychooseimg4 {
+        margin-bottom: 30px;
+    }
+
+    .whychoose img {
+        width: 450px;
+        height: 200px;
+    }
+
+    .whychoose .wtext1,
+    .whychoose .wtext2,
+    .whychoose .wtext3,
+    .whychoose .wtext4 {
+        width: 450px;
+    }
+
+    .wtext {
+        margin-bottom: 70px;
+    }
+
+    .carousel .testi {
+        height: 105px;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-brand img {
+        width: 30%;
+    }
+
+    .whychooseimg1,
+    .whychooseimg2,
+    .whychooseimg3,
+    .whychooseimg4 {
+        margin-bottom: 30px;
+    }
+
+    .bannertext h1 {
+        font-size: 2.5rem;
+    }
+
+    .carousel .testi {
+        height: 105px;
+    }
+
+    .openinghours {
+        padding: 0 !important;
+        margin-left: 20px;
+        margin-top: 25px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .navbar-brand img {
+        width: 25%;
+    }
+
+    .wtext1,
+    .wtext2,
+    .wtext3,
+    .wtext4 {
+        width: 200px;
+    }
+
+    .whychoose h4 {
+        font-size: 15px;
+    }
+
+    .bannertext h1 {
+        font-size: 3rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    .navbar-brand img {
+        width: 20%;
+    }
+
+    .bannertext h1 {
+        font-size: 3.5rem;
+    }
+}
